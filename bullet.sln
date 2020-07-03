@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bullet.Server", "bullet\Server\bullet.Server.csproj", "{0C28FC40-9E01-4AE9-9A35-42FB3228AB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bullet.Client", "bullet\Client\bullet.Client.csproj", "{6B678ACC-91A9-41D4-8153-DA8B0926FE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bullet.Shared", "bullet\Shared\bullet.Shared.csproj", "{B57681D5-E49C-4282-B51B-7401CA54A3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C28FC40-9E01-4AE9-9A35-42FB3228AB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C28FC40-9E01-4AE9-9A35-42FB3228AB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C28FC40-9E01-4AE9-9A35-42FB3228AB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C28FC40-9E01-4AE9-9A35-42FB3228AB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B678ACC-91A9-41D4-8153-DA8B0926FE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B678ACC-91A9-41D4-8153-DA8B0926FE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B678ACC-91A9-41D4-8153-DA8B0926FE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B678ACC-91A9-41D4-8153-DA8B0926FE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57681D5-E49C-4282-B51B-7401CA54A3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57681D5-E49C-4282-B51B-7401CA54A3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57681D5-E49C-4282-B51B-7401CA54A3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57681D5-E49C-4282-B51B-7401CA54A3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
